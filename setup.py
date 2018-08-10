@@ -7,7 +7,7 @@ with open('showit/VERSION', 'r') as fh:
     version = json.loads(fh.read())
 
 setup(
-    name='showit',
+    name='showit-again',
     version=version['string'],
     description='simple and sensible display of images',
     author='freeman-lab',
