@@ -10,7 +10,7 @@ Really simple image display with [`matplotlib`](https://github.com/matplotlib/ma
 ### install
 
 ```bash
-pip install showit
+pip install showit-again
 ```
 
 ### usage 
